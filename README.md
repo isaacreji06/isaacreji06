@@ -1,4 +1,5 @@
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacreji06&show_icons=true&theme=radical)
+[![LeetCode Badge](https://assets.leetcode.com/static_assets/others/2550.gif)](https://leetcode.com/isaacreji06/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/isaacreji06?theme=dark&font=Karma&ext=contest)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacreji06&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isaacreji06&theme=radical)
