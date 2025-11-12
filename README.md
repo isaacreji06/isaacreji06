@@ -25,7 +25,7 @@
 </a>  
 
 <a href="https://leetcode.com/isaacreji06/">
-  <img src="https://leetcard.jacoblin.cool/isaacreji06?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/isaacreji06?theme=wtf&font=Texturina&ext=heatmap" alt="LeetCode Stats" />
 </a>
 
 ---
