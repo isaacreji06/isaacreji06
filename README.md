@@ -23,7 +23,11 @@
 <a href="https://leetcode.com/isaacreji06/">
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="200" width="200" />
 </a>  
-
+50 Day Badge 2025
+<a href="https://leetcode.com/isaacreji06/">
+  <img src="https://assets.leetcode.com/static_assets/others/50.gif" alt="LeetCode Badge" height="200" width="200" />
+</a>  
+50 Day Badge 2026
 <a href="https://leetcode.com/isaacreji06/">
   <img src="https://leetcard.jacoblin.cool/isaacreji06?theme=dark&font=Texturina&ext=heatmap" alt="LeetCode Stats" />
 </a>
