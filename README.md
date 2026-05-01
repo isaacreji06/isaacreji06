@@ -70,6 +70,12 @@
         <sub><b>DCC March · 2026</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://leetcode.com/isaacreji06/">
+        <img src="https://assets.leetcode.com/static_assets/marketing/4.gif" height="100" width="100" alt="DCC March 2026" /><br/>
+        <sub><b>DCC April · 2026</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
